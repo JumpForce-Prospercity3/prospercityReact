@@ -8,6 +8,7 @@ import JumpForce from './components/jumpforce/JumpForce';
 import TeamMember from './components/teammember/TeamMember';
 import TeamMemberLuisGT from './components/teammemberluisgt/TeamMemberLuisGT';
 import TeamMemberSantiago from './components/teammembersantiago/TeamMemberSantiago';
+import TeamMemberJeison from './components/teammemberjeison/TeamMemberJeison';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -18,7 +19,7 @@ root.render(
     <TeamMember />
     <TeamMember />
     <TeamMember />
-    <TeamMember />
+    <TeamMemberJeison />
     <TeamMemberSantiago />
     <TeamMemberLuisGT/>
   </React.StrictMode>

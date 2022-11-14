@@ -6,7 +6,7 @@ function JumpForce() {
   return (
     <div className="App">
       <header className="App-JumpForce">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={logo} className="App-logoJumpForce" alt="logo" />
         <p>
           Aqui los saluda el equipo JumpForce
         </p>

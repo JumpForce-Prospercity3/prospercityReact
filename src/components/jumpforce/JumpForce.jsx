@@ -5,30 +5,14 @@ import './JumpForce.css';
 function JumpForce() {
   return (
     <div className="App">
-      <header className="App-JumpForce">
+      <div className="App-JumpForce">
         <img src={logo} className="App-logoJumpForce" alt="logo" />
         <p>
-          Aqui los saluda el equipo JumpForce
+          Aqui los saluda el equipo <a href='https://github.com/JumpForce-Prospercity3' className='MemberName'>JumpForce</a>
         </p>
-        <nav>
-          <ul>
-            <li>
-              <a href='https://github.com/Jeisonlopez259911'>Jeison Stiven</a>
-            </li>
-            <li>
-            <a href='https://github.com/LuisGomezTrujillo'>Luis Alfonso Gómez Trujillo</a>
-            </li>
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
-          </ul>
-        </nav>
+       
         
-      </header>
+      </div>
     </div>
   );
 }

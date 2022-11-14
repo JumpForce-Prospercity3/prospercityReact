@@ -5,13 +5,21 @@ import App from './App';
 import Header from './components/header/Header';
 import reportWebVitals from './reportWebVitals';
 import JumpForce from './components/jumpforce/JumpForce';
+import TeamMember from './components/teammember/TeamMember';
+import TeamMemberLuisGT from './components/teammemberluisgt/TeamMemberLuisGT';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <App />
     <Header />
-    <JumpForce/>
+    <JumpForce />
+    <TeamMember />
+    <TeamMember />
+    <TeamMember />
+    <TeamMember />
+    <TeamMember />
+    <TeamMemberLuisGT/>
   </React.StrictMode>
 );
 

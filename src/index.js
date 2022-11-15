@@ -7,8 +7,8 @@ import reportWebVitals from './reportWebVitals';
 import JumpForce from './components/jumpforce/JumpForce';
 import TeamMember from './components/teammember/TeamMember';
 import TeamMemberLuisGT from './components/teammemberluisgt/TeamMemberLuisGT';
-import TeamMemberGerman from './components/teammembergerman/TeamMemberGerman';
-import TeamMemberPedro from './components/teammemberPedro/TeamMemberPedro';
+import TeamMemberSantiago from './components/teammembersantiago/TeamMemberSantiago';
+import TeamMemberJeison from './components/teammemberjeison/TeamMemberJeison';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -16,11 +16,11 @@ root.render(
     <App />
     <Header />
     <JumpForce />
-    <TeamMemberGerman />
-    <TeamMemberPedro />
     <TeamMember />
     <TeamMember />
     <TeamMember />
+    <TeamMemberJeison />
+    <TeamMemberSantiago />
     <TeamMemberLuisGT/>
   </React.StrictMode>
 );

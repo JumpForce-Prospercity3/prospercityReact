@@ -8,13 +8,13 @@ import React from 'react';
 
 const defaultTeamMembers=[
   {
-    memberName: 'Jeison',
-    gitHubUrl: 'https://github.com/JumpForce-Prospercity3/prospercityReact',
+    memberName: 'Jeison Stiven Lopez Castro',
+    gitHubUrl: 'https://github.com/Jeisonlopez259911',
     photoUrl: 'https://drive.google.com/uc?id=1zL8XgQYd1Ftjbf1w-LM8Aa0T74pZNLw3'
   },
   {
-    memberName: 'Santiago',
-    gitHubUrl: 'https://github.com/JumpForce-Prospercity3/prospercityReact',
+    memberName: 'Santiago Londoño Salgado',
+    gitHubUrl: 'https://github.com/Santy149',
     photoUrl: 'https://drive.google.com/uc?id=1zL8XgQYd1Ftjbf1w-LM8Aa0T74pZNLw3'
   },
   {
@@ -35,7 +35,7 @@ const defaultTeamMembers=[
   {
     memberName: 'Luis Alfonso Gómez Trujillo',
     gitHubUrl: 'https://github.com/LuisGomezTrujillo',
-    photoUrl: 'https://drive.google.com/uc?id=1ngDLpH7hLFH8dU9jI9BtPlC4cQd4H_Ze'
+    photoUrl: 'https://drive.google.com/uc?id=1QWJTEXnWP6TEBke6c2ikUYI58nKzuzUb'  
   },
 
 ];
@@ -43,7 +43,7 @@ const defaultTeamMembers=[
 
 function App() {
   
-  const [TeamMembers, setTeamMembers]=React.useState(defaultTeamMembers);
+  const TeamMembers=defaultTeamMembers;
 
   
 
@@ -59,7 +59,7 @@ function App() {
             )
           )};          
         </TeamList>
-        {/*<CreateItem /> */}
+        
     </>
   );
   

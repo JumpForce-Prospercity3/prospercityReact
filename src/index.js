@@ -7,6 +7,8 @@ import reportWebVitals from './reportWebVitals';
 import JumpForce from './components/jumpforce/JumpForce';
 import TeamMember from './components/teammember/TeamMember';
 import TeamMemberLuisGT from './components/teammemberluisgt/TeamMemberLuisGT';
+import TeamMemberGerman from './components/teammembergerman/TeamMemberGerman';
+import TeamMemberPedro from './components/teammemberPedro/TeamMemberPedro';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -14,8 +16,8 @@ root.render(
     <App />
     <Header />
     <JumpForce />
-    <TeamMember />
-    <TeamMember />
+    <TeamMemberGerman />
+    <TeamMemberPedro />
     <TeamMember />
     <TeamMember />
     <TeamMember />

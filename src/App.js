@@ -18,13 +18,8 @@ const defaultTeamMembers=[
     photoUrl: 'https://drive.google.com/uc?id=1zL8XgQYd1Ftjbf1w-LM8Aa0T74pZNLw3'
   },
   {
-    memberName: 'Carlos',
-    gitHubUrl: 'https://github.com/JumpForce-Prospercity3/prospercityReact',
-    photoUrl: 'https://drive.google.com/uc?id=1zL8XgQYd1Ftjbf1w-LM8Aa0T74pZNLw3'
-  },
-  {
-    memberName: 'Alex',
-    gitHubUrl: 'https://github.com/JumpForce-Prospercity3/prospercityReact',
+    memberName: 'Carlos Alberto Orozco Ospina',
+    gitHubUrl: 'https://github.com/charlie1978',
     photoUrl: 'https://drive.google.com/uc?id=1zL8XgQYd1Ftjbf1w-LM8Aa0T74pZNLw3'
   },
   {
@@ -37,6 +32,11 @@ const defaultTeamMembers=[
     gitHubUrl: 'https://github.com/LuisGomezTrujillo',
     photoUrl: 'https://drive.google.com/uc?id=1ngDLpH7hLFH8dU9jI9BtPlC4cQd4H_Ze'  
   },
+  {
+    memberName: 'Alex',
+    gitHubUrl: 'https://github.com/JumpForce-Prospercity3/prospercityReact',
+    photoUrl: 'https://drive.google.com/uc?id=1zL8XgQYd1Ftjbf1w-LM8Aa0T74pZNLw3'
+  }
 
 ];
 

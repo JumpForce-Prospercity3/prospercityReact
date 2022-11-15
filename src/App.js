@@ -28,14 +28,14 @@ const defaultTeamMembers=[
     photoUrl: 'https://drive.google.com/uc?id=1zL8XgQYd1Ftjbf1w-LM8Aa0T74pZNLw3'
   },
   {
-    memberName: 'Jose',
-    gitHubUrl: 'https://github.com/JumpForce-Prospercity3/prospercityReact',
-    photoUrl: 'https://drive.google.com/uc?id=1zL8XgQYd1Ftjbf1w-LM8Aa0T74pZNLw3'
+    memberName: 'Juan José Cardona Ramírez',
+    gitHubUrl: 'https://github.com/juanirmao',
+    photoUrl: 'https://drive.google.com/uc?id=1zL8XgQYd1Ftjbf1w-LM8Aa0T74pZNLw3' 
   },
   {
     memberName: 'Luis Alfonso Gómez Trujillo',
     gitHubUrl: 'https://github.com/LuisGomezTrujillo',
-    photoUrl: 'https://drive.google.com/uc?id=1QWJTEXnWP6TEBke6c2ikUYI58nKzuzUb'  
+    photoUrl: 'https://drive.google.com/uc?id=1ngDLpH7hLFH8dU9jI9BtPlC4cQd4H_Ze'  
   },
 
 ];

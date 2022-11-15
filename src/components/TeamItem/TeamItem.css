@@ -1,29 +1,24 @@
-.App-fotoTeamMemberLuisGT {
+.App-fotoTeamMember {
     height: 15vmin;
-    pointer-events: none; 
+    pointer-events: none;
+    margin: 10px;
   }
 
-  @media (prefers-reduced-motion: no-preference) {
-    .App-fotoTeamMemberLuisGT {
-      animation: App-fotoTeamMemberLuisGT-spin infinite 20s linear;
+@media (prefers-reduced-motion: no-preference) {
+    .App-fotoTeamMember {
+      animation: App-fotoTeamMember-spin infinite 20s linear;
     }
   }
   
+
 .team-grid {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    
+     
    
 }
 
-.team-grid-item{
-    background-color: pink;
-    padding: 15px;
-    border-top-left-radius: 40px;
-    column-gap: 50px;
-
-}
 
 .team-grid-item img {
     width: 80%;
@@ -31,9 +26,10 @@
     object-fit: contain;
 }
 
-.App-TeamMemberLuisGT {
+.App-TeamMember {
     background-color: #61dafb;
     max-height: auto;
+    width: 40%;
     display: flex;
     flex-direction:row;
     align-items: center;
@@ -45,7 +41,7 @@
     margin: 10px;
 }
 
-.MemberNameLuisGT {
+.MemberName {
     margin-top: 0px;
     background-color: #282c34;
     max-height: auto;
@@ -56,13 +52,14 @@
     font-size: calc(10px + vmin);
     color: white;
     padding: 10px;
+    margin: 10px;
 }
 
-   @keyframes App-fotoTeamMemberLuisGT-spin {
+  @keyframes App-fotoTeamMember-spin {
     from {
       transform: rotateY(360deg);
     }
     to {
       transform: rotateY(0deg);
     }
-  } 
+  }

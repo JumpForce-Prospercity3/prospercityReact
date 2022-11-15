@@ -2,26 +2,16 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
-import Header from './components/header/Header';
+
 import reportWebVitals from './reportWebVitals';
-import JumpForce from './components/jumpforce/JumpForce';
-import TeamMember from './components/teammember/TeamMember';
-import TeamMemberLuisGT from './components/teammemberluisgt/TeamMemberLuisGT';
-import TeamMemberSantiago from './components/teammembersantiago/TeamMemberSantiago';
-import TeamMemberJeison from './components/teammemberjeison/TeamMemberJeison';
+
+
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
-    <Header />
-    <JumpForce />
-    <TeamMember />
-    <TeamMember />
-    <TeamMember />
-    <TeamMemberJeison />
-    <TeamMemberSantiago />
-    <TeamMemberLuisGT/>
+    
+    <App />    
   </React.StrictMode>
 );
 
@@ -29,3 +19,6 @@ root.render(
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 reportWebVitals();
+
+
+//https://drive.google.com/file/d/1ngDLpH7hLFH8dU9jI9BtPlC4cQd4H_Ze/view?usp=share_link

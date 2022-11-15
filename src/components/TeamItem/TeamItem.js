@@ -1,5 +1,5 @@
 
-import '../../App.css';
+import React from 'react';
 import './TeamItem.css';
 
 function TeamItem(props) {
@@ -7,7 +7,7 @@ function TeamItem(props) {
     <div className="team-grid">
       <div className="App-TeamMember">
         <img src={props.photoUrl} className="App-fotoTeamMember" alt="logo" />    
-        <a href={props.memberUrl} className='MemberName'>{props.memberName}</a>
+        <a href={props.gitHubUrl} className='MemberName'>{props.memberName}</a>
      </div>
     </div>
   );

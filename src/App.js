@@ -28,15 +28,20 @@ const defaultTeamMembers=[
     photoUrl: 'https://drive.google.com/uc?id=1hE1qK9BOn-4vcJvI1bZlCZh-1YpNYe-d' 
   }, 
   {
+    memberName: 'Jhon Alexander Parra Calderon',
+    gitHubUrl: 'https://github.com/AlexparraC',
+    photoUrl: 'https://drive.google.com/uc?id=1fiKAslCLtRuGeXIXnox2T2tw4f38wLNw'
+  },
+  {
+    memberName: 'Jeremy Alejandro Ramirez Palacio',
+    gitHubUrl: 'https://github.com/Jexpalacio11',
+    photoUrl: 'https://drive.google.com/uc?id=1XO6TztH086V6aJ3nc4Gdr89UPH-Z5g4c'
+  },
+  {
     memberName: 'Luis Alfonso Gómez Trujillo',
     gitHubUrl: 'https://github.com/LuisGomezTrujillo',
     photoUrl: 'https://drive.google.com/uc?id=1ngDLpH7hLFH8dU9jI9BtPlC4cQd4H_Ze'  
-  },
-  {
-    memberName: 'Alex',
-    gitHubUrl: 'https://github.com/JumpForce-Prospercity3/prospercityReact',
-    photoUrl: 'https://drive.google.com/uc?id=1zL8XgQYd1Ftjbf1w-LM8Aa0T74pZNLw3'
-  }
+  },  
 
 ];
 

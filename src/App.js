@@ -20,13 +20,13 @@ const defaultTeamMembers=[
   {
     memberName: 'Carlos Alberto Orozco Ospina',
     gitHubUrl: 'https://github.com/charlie1978',
-    photoUrl: 'https://drive.google.com/uc?id=1zL8XgQYd1Ftjbf1w-LM8Aa0T74pZNLw3'
+    photoUrl: 'https://avatars.githubusercontent.com/u/41816057?v=4'
   },
   {
     memberName: 'Juan José Cardona Ramírez',
     gitHubUrl: 'https://github.com/juanirmao',
-    photoUrl: 'https://drive.google.com/uc?id=1zL8XgQYd1Ftjbf1w-LM8Aa0T74pZNLw3' 
-  },
+    photoUrl: 'https://drive.google.com/uc?id=1hE1qK9BOn-4vcJvI1bZlCZh-1YpNYe-d' 
+  }, 
   {
     memberName: 'Luis Alfonso Gómez Trujillo',
     gitHubUrl: 'https://github.com/LuisGomezTrujillo',

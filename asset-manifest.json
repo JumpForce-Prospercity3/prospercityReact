@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/minAMay/static/css/main.b2afa48c.css",
-    "main.js": "/minAMay/static/js/main.285dec24.js",
-    "static/js/787.2f77ad9e.chunk.js": "/minAMay/static/js/787.2f77ad9e.chunk.js",
-    "static/media/prosper.png": "/minAMay/static/media/prosper.8ffc6d197e372fd1d707.png",
-    "static/media/logo_react.svg": "/minAMay/static/media/logo_react.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/minAMay/index.html",
-    "main.b2afa48c.css.map": "/minAMay/static/css/main.b2afa48c.css.map",
-    "main.285dec24.js.map": "/minAMay/static/js/main.285dec24.js.map",
-    "787.2f77ad9e.chunk.js.map": "/minAMay/static/js/787.2f77ad9e.chunk.js.map"
+    "main.css": "/prospercityReact/static/css/main.2910f3ae.css",
+    "main.js": "/prospercityReact/static/js/main.5c395feb.js",
+    "static/js/787.d707c39a.chunk.js": "/prospercityReact/static/js/787.d707c39a.chunk.js",
+    "static/media/logo_jumpforce.png": "/prospercityReact/static/media/logo_jumpforce.bc61dfce5b39af449d66.png",
+    "static/media/prosper.png": "/prospercityReact/static/media/prosper.8ffc6d197e372fd1d707.png",
+    "static/media/logo_react.svg": "/prospercityReact/static/media/logo_react.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/prospercityReact/index.html",
+    "main.2910f3ae.css.map": "/prospercityReact/static/css/main.2910f3ae.css.map",
+    "main.5c395feb.js.map": "/prospercityReact/static/js/main.5c395feb.js.map",
+    "787.d707c39a.chunk.js.map": "/prospercityReact/static/js/787.d707c39a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b2afa48c.css",
-    "static/js/main.285dec24.js"
+    "static/css/main.2910f3ae.css",
+    "static/js/main.5c395feb.js"
   ]
 }

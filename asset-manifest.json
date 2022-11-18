@@ -1,18 +1,17 @@
 {
   "files": {
-    "main.css": "/prospercityReact/static/css/main.2910f3ae.css",
-    "main.js": "/prospercityReact/static/js/main.5c395feb.js",
+    "main.css": "/prospercityReact/static/css/main.b2afa48c.css",
+    "main.js": "/prospercityReact/static/js/main.b905c2af.js",
     "static/js/787.d707c39a.chunk.js": "/prospercityReact/static/js/787.d707c39a.chunk.js",
-    "static/media/logo_jumpforce.png": "/prospercityReact/static/media/logo_jumpforce.bc61dfce5b39af449d66.png",
     "static/media/prosper.png": "/prospercityReact/static/media/prosper.8ffc6d197e372fd1d707.png",
     "static/media/logo_react.svg": "/prospercityReact/static/media/logo_react.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/prospercityReact/index.html",
-    "main.2910f3ae.css.map": "/prospercityReact/static/css/main.2910f3ae.css.map",
-    "main.5c395feb.js.map": "/prospercityReact/static/js/main.5c395feb.js.map",
+    "main.b2afa48c.css.map": "/prospercityReact/static/css/main.b2afa48c.css.map",
+    "main.b905c2af.js.map": "/prospercityReact/static/js/main.b905c2af.js.map",
     "787.d707c39a.chunk.js.map": "/prospercityReact/static/js/787.d707c39a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2910f3ae.css",
-    "static/js/main.5c395feb.js"
+    "static/css/main.b2afa48c.css",
+    "static/js/main.b905c2af.js"
   ]
 }
